@@ -1,7 +1,10 @@
-Web scrape for jobs on this site (https://realpython.github.io/fake-jobs/)
+Web scrape for software developer job on indeed
 
-1. Use Dev tools to see the structure of the page
 
-Store results in db
 
-Allow user to request it with a GET(?) request
+todo:
+
+allow user to input a job title and location
+store results somewhere accessible
+
+

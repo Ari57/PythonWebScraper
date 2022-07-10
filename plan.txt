@@ -1,10 +1,13 @@
-Web scrape for software developer job on indeed
+done:
 
-
+user input
+storing results 
 
 todo:
 
-allow user to input a job title and location
-store results somewhere accessible
+bring in more results
+create api to access scraper
+host the scraper somewhere
+
 
 

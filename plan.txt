@@ -5,7 +5,7 @@ storing results
 
 todo:
 
-bring in more results
+bring in more results - Almost done
 create api to access scraper
 host the scraper somewhere
 

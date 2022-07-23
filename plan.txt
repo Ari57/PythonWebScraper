@@ -1,13 +1,13 @@
 done:
 
 user input
-storing results 
+storing results
+Bring in more results
 
 todo:
 
-bring in more results - Almost done
-create api to access scraper
-host the scraper somewhere
+Host the scraper somewhere
+Create api to access scraper
 
 
 

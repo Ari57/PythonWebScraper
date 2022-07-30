@@ -1,0 +1,32 @@
+done:
+
+user input
+storing results
+Bring in more results
+
+todo:
+
+Host the scraper somewhere
+Create api to access scraper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
